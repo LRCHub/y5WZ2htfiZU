@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "VIVACE",
+  "base_artist": "LIGHTSUM",
+  "createdAt": "2025-12-28T04:16:26.193531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "The Mothers Of Invention",
+      "has_synced": true,
+      "path": "select/01_Amnesia_Vivace_The_Mothers_Of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "Frank Zappa / The Mothers of Invention",
+      "has_synced": true,
+      "path": "select/02_Amnesia_Vivace_Frank_Zappa___The_Mothers_of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/03_Amnesia_Vivace_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VIVACE",
+      "artist": "LIGHTSUM",
+      "has_synced": true,
+      "path": "select/04_VIVACE_LIGHTSUM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VIVACE",
+      "artist": "LIGHTSUM",
+      "has_synced": true,
+      "path": "select/05_VIVACE_LIGHTSUM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Presto Vivace And Reprise",
+      "artist": "UK",
+      "has_synced": true,
+      "path": "select/06_Presto_Vivace_And_Reprise_UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIVACE",
+      "artist": "LIGHTSUM",
+      "has_synced": false,
+      "path": "select/pl_01_VIVACE_LIGHTSUM.txt"
+    }
+  ]
+}
